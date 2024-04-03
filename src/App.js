@@ -1,7 +1,6 @@
 // import logo from './logo.svg';
 // import './App.css';
 import Antdesign from "./AntDesign/Jobform";
-// import Modalform from "./AntDesign/jobform2";
 
 
 function App() {
